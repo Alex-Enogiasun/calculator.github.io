@@ -30,14 +30,6 @@ body{
     background-color: rgb(6, 20, 110);
 }
 
-.screen{
-color: snow;
-margin:15% 3%; 
-background-color: lawngreen;
-border-radius: 2%;
-width: 95%;
-}
-
 input{ border-radius: 1%;
     width: 98%;
     height: 98%;
@@ -46,10 +38,19 @@ input{ border-radius: 1%;
     height: 60%;
 }
 
+.screen{
+margin:14% 3%; 
+margin-left: 2%;
+background-color: lawngreen;
+border-radius: 1rem;
+width: 95%;
+}
+
 .screen input{
     height: 6rem;
     font-size: xx-large;
     color: black;
+    font-weight: bolder;
 }
 
 .operations{
