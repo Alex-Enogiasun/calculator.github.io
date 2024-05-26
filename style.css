@@ -31,7 +31,7 @@ body{
 }
 
 input{ border-radius: 1%;
-    width: 98%;
+    width: 95%;
     height: 98%;
     font-size: medium;
     color: white;
@@ -43,14 +43,16 @@ margin:14% 3%;
 margin-left: 2%;
 background-color: lawngreen;
 border-radius: 1rem;
-width: 95%;
+
 }
 
 .screen input{
     height: 6rem;
+    width: 90%;
     font-size: xx-large;
     color: black;
     font-weight: bolder;
+  border-radius: 1rem;
 }
 
 .operations{
@@ -61,6 +63,7 @@ width: 95%;
     height: 3.8rem;
     border-radius: 1rem;
     padding: 2%;
+  margin-top: 10px;
 }
 
 .numbs{
@@ -71,32 +74,35 @@ width: 95%;
     height: 3.8rem;
     border-radius: 1rem;
     padding: 2%;
+  margin-top: 10px;
 }
 
 .myequal{
     background-color: darkgreen;
     color: white;
-    width: 9.2rem;
+    width: 9.4rem;
     height: 3.8rem;
     border-radius: 1rem;
-    padding: 2%;
+    margin-top: 10px;
 }
 
 .zero{
     background-color: rgb(6, 161, 127);
     color: white;
     font-size: xx-large;
-    width: 4.6rem;
-    height: 4rem;
+    width: 4.8rem;
+    height: 3.8rem;
     border-radius: 1rem;
-    padding: 2%;
+    margin-top: 10px;
+ 
 }
 
 .acdel{
     background-color: darkred;
     color: white;
-    width: 4.6rem;
+    width: 4.8rem;
     height: 3.8rem;
     border-radius: 1rem;
     padding: 2%;
+  margin-top: 10px;
 }
